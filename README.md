@@ -3,7 +3,7 @@
 # ⚡ SYSTEM.INITIALIZE(JAPHETH_OS)
 ### 4.58 CGPA ENGINEER // MAMBA MENTALITY // SYSTEMS ARCHITECT
 
-<img src="YOUR_VIDEO_OR_GIF_URL_HERE" width="100%" style="border-radius: 20px; border: 1px solid #EDC284;" />
+<img src="WhatsApp%20Image%202026-03-30%20at%2009.28.34.jpeg" width="100%" style="border-radius: 20px; border: 1px solid #EDC284;" />
 
 <br/>
 
