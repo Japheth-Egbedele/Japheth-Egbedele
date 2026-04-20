@@ -1,13 +1,13 @@
 <div align="center">
 
-# ⚡ JAPHETH_EGBEDELE
-### PRODUCT ENGINEER & FOUNDER // 2+ YEARS // 4.65 CGPA
+# ⚡ JAPHETH O. EGBEDELE
+### PRODUCT ENGINEER & FOUNDER | 2+ YEARS | 4.65 CGPA
 
 <img src="WhatsApp%20Image%202026-03-30%20at%2009.28.34.jpeg" width="60%" style="max-width: 400px; border-radius: 20px; border: 1px solid #EDC284;" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-EDC284?style=for-the-badge&logo=vercel&logoColor=000)](https://japhethegbedele.vercel.app)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-EDC284?style=for-the-badge&logo=vercel&logoColor=000)](https://japheth-egbedele.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-NETWORK-EDC284?style=for-the-badge&logo=linkedin&logoColor=000)](https://linkedin.com/in/egbedelejapheth)
 
 ---
@@ -15,8 +15,8 @@
 ### 📂 OPERATIONAL LOG
 | Status | Mission |
 | :--- | :--- |
-| 🔭 **CURRENT** | Founder & Product Engineer @ Highnet (2024—Present) |
-| ⚡ **STACK** | Next.js, TypeScript, Node.js, PostgreSQL, Systems Architecture |
+| 🔭 **CURRENT** | Founder, Freelance Software Developer & Product Engineer @ Highnet (2025—Present) |
+| ⚡ **STACK** | Next.js, React.js JavaScript, Node.js, MongoDB, Systems Architecture |
 | 📍 **BASE** | Nigeria (Open to Remote) |
 
 ---
