@@ -1,12 +1,13 @@
 <div align="center">
 
-# ⚡ SYSTEM.INITIALIZE(JAPHETH_OS)
-### 4.58 CGPA ENGINEER // MAMBA MENTALITY // SYSTEMS ARCHITECT
+# ⚡ JAPHETH_EGBEDELE
+### PRODUCT ENGINEER & FOUNDER // 2+ YEARS // 4.65 CGPA
 
-<img src="WhatsApp%20Image%202026-03-30%20at%2009.28.34.jpeg" width="100%" style="border-radius: 20px; border: 1px solid #EDC284;" />
+<img src="WhatsApp%20Image%202026-03-30%20at%2009.28.34.jpeg" width="60%" style="max-width: 400px; border-radius: 20px; border: 1px solid #EDC284;" />
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-EDC284?style=for-the-badge&logo=vercel&logoColor=000)](https://japhethegbedele.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-NETWORK-EDC284?style=for-the-badge&logo=linkedin&logoColor=000)](https://linkedin.com/in/egbedelejapheth)
 
 ---
@@ -14,11 +15,9 @@
 ### 📂 OPERATIONAL LOG
 | Status | Mission |
 | :--- | :--- |
-| 🔭 **CURRENTLY** | High-performance tactical web systems & architectural scaling |
-| 👯 **COLLAB** | Open-source tools prioritizing speed and system integrity |
-| 🤝 **RESOURCES** | Low-level systems optimization & deep-tier backend architecture |
-| 🌱 **LEARNING** | Distributed systems & modern React performance limits |
-| 💬 **INTEL** | 4.58 CGPA maintenance, active recall, and Mamba discipline |
+| 🔭 **CURRENT** | Founder & Product Engineer @ Highnet (2024—Present) |
+| ⚡ **STACK** | Next.js, TypeScript, Node.js, PostgreSQL, Systems Architecture |
+| 📍 **BASE** | Nigeria (Open to Remote) |
 
 ---
 
