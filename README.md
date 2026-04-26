@@ -47,9 +47,4 @@
 
 ---
 
-### 🏆 SYSTEM ACHIEVEMENTS
-<img src="https://github-profile-trophy.vercel.app/?username=Japheth-Egbedele&theme=radical&no-frame=true&no-bg=true&margin-w=4&rank=SSS,SS,S,A,B" width="100%" />
-
----
-
 </div>
