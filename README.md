@@ -3,7 +3,7 @@
 # ⚡ JAPHETH O. EGBEDELE
 ### PRODUCT ENGINEER & FOUNDER | 2+ YEARS | 4.65 CGPA
 
-<img src="WhatsApp%20Image%202026-03-30%20at%2009.28.34.jpeg" width="60%" style="max-width: 400px; border-radius: 20px; border: 1px solid #EDC284;" />
+<!-- <img src="WhatsApp%20Image%202026-03-30%20at%2009.28.34.jpeg" width="60%" style="max-width: 400px; border-radius: 20px; border: 1px solid #EDC284;" /> -->
 
 <br/>
 
