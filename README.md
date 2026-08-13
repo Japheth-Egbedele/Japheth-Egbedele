@@ -34,9 +34,9 @@
 
 ---
 
-🎯 **Current Focus:** Specializing strictly in **Java & Spring Boot** for microservices and deep backend architecture.
-🔮 **Future Interests:** Go (for high concurrency) & Python (for ML).
-🧰 **Past Project Tech:** JavaScript, MongoDB, Supabase.
+🎯 **Current Focus:** Specializing strictly in **Java & Spring Boot** for microservices and deep backend architecture.  
+🔮 **Future Interests:** Go (for high concurrency) & Python (for ML).  
+🧰 **Past Project Tech:** JavaScript, MongoDB, Supabase.  
 
 *🚀 Open to backend opportunities that challenge me, push my boundaries, and help me evolve.*
 
