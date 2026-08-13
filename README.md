@@ -16,7 +16,7 @@
 | Status | Mission |
 | :--- | :--- |
 | 🔭 **CURRENT** | Founder, Freelance Software Developer & Product Engineer @ Highnet (2025—Present) |
-| ⚡ **STACK** | Next.js, React.js JavaScript, Node.js, MongoDB, Systems Architecture |
+| ⚡ **STACK** | Java, Springboot |
 | 📍 **BASE** | Nigeria (Open to Remote) |
 
 ---
