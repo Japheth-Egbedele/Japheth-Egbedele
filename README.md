@@ -32,7 +32,13 @@
 **INFRASTRUCTURE & DEPLOYMENT**
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
+---
 
+🎯 **Current Focus:** Specializing strictly in **Java & Spring Boot** for microservices and deep backend architecture.
+🔮 **Future Interests:** Go (for high concurrency) & Python (for ML).
+🧰 **Past Project Tech:** JavaScript, MongoDB, Supabase.
+
+*🚀 Open to backend opportunities that challenge me, push my boundaries, and help me evolve.*
 
 ---
 </div>
