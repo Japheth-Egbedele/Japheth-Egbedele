@@ -1,7 +1,7 @@
 <div align="center">
 
 # JAPHETH O. EGBEDELE
-### SOFTWARE DEVELOPER | 1+ YEAR
+### SOFTWARE DEVELOPER
 
 <!-- <img src="WhatsApp%20Image%202026-03-30%20at%2009.28.34.jpeg" width="60%" style="max-width: 400px; border-radius: 20px; border: 1px solid #EDC284;" /> -->
 
