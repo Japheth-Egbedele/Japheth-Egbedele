@@ -34,15 +34,25 @@
 
 ---
 
-**Current Focus:** Specializing strictly in **Java & Spring Boot** for microservices and deep backend architecture.  
-**Past Project Tech:**
-* **Languages:** TypeScript, JavaScript, HTML5, CSS3
-* **Backend & Databases:** Node.js, Express.js, MongoDB, Supabase
-* **Frontend & Frameworks:** React, Next.js, Tailwind CSS
-* **Design & Tools:** Figma
-**Future Interests:** Go (for high concurrency) & Python (for ML).  
+### 🎯 Current Focus
+ Specializing strictly in **Java & Spring Boot** for microservices and deep backend architecture.
 
-*🚀 Open to backend opportunities that challenge me, push my boundaries, and help me evolve.*
+---
 
+### 🧰 Past Project Tech
+ **Languages:** `TypeScript` • `JavaScript` • `HTML5` • `CSS3`  
+ **Backend & Databases:** `Node.js` • `Express.js` • `MongoDB` • `Supabase`  
+ **Frontend & Frameworks:** `React` • `Next.js` • `Tailwind CSS`
+ **Design & Tools:** `Figma`
+
+---
+
+### 🔮 Future Interests
+ **Go** *(High Concurrency)*  
+ **Python** *(Machine Learning & AI)*
+
+---
+
+ 🚀 *Open to backend opportunities that challenge me, push my boundaries, and help me evolve.*
 ---
 </div>
