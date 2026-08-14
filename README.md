@@ -46,9 +46,9 @@ Specializing strictly in **Java & Spring Boot** for microservices and deep backe
 
 ### 🧰 Past Project Tech
  **Languages:** `TypeScript` • `JavaScript` • `HTML5` • `CSS3`  
- **Backend & Databases:** `Node.js` • `Express.js` • `MongoDB` • `Supabase`  
+ **Backend & Databases:** `Node.js` • `Express.js` • `MongoDB` • `Supabase` •  `REST APIs`• `PostgreSQL` • `MongoDB` • `Supabase`  
  **Frontend & Frameworks:** `React` • `Next.js` • `Tailwind CSS`  
- **Design & Tools:** `Figma`
+ **Design & Tools:** `Git/GitHub` • `Postman` • `Vercel` • `Render` • `Figma` • `Cursor`
 
 ---
 
