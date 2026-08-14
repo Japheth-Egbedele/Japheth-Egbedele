@@ -1,9 +1,7 @@
 <div align="center">
 
 # JAPHETH O. EGBEDELE
-### SOFTWARE DEVELOPER
-
-<!-- <img src="WhatsApp%20Image%202026-03-30%20at%2009.28.34.jpeg" width="60%" style="max-width: 400px; border-radius: 20px; border: 1px solid #EDC284;" /> -->
+### SOFTWARE ENGINEER
 
 <br/>
 
@@ -14,36 +12,42 @@
 
 ### 📂 Profile Overview
 
-|  | Details |
+| Overview | Details |
 | :--- | :--- |
 | **Current Role** | Java Backend Software Engineer |
 | **Core Focus** | Scalable Microservices & Deep Backend Systems |
 | **Status** | Open to full-time & high-impact opportunities |
 
 ---
-
 ### 🛠️ ARCHITECTURAL STACK
 
 **CORE LANGUAGES**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
+
 **BACKEND & ARCHITECTURE**
 ![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
 **INFRASTRUCTURE & DEPLOYMENT**
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
+</div>
+
+<br/>
+
 ### 🎯 Current Focus
- Specializing strictly in **Java & Spring Boot** for microservices and deep backend architecture.
+Specializing strictly in **Java & Spring Boot** for microservices and deep backend architecture.  
+**Currently Learning:** Relational Database Design, SQL, and PostgreSQL to round out my enterprise backend skills.
 
 ---
 
 ### 🧰 Past Project Tech
  **Languages:** `TypeScript` • `JavaScript` • `HTML5` • `CSS3`  
  **Backend & Databases:** `Node.js` • `Express.js` • `MongoDB` • `Supabase`  
- **Frontend & Frameworks:** `React` • `Next.js` • `Tailwind CSS`
+ **Frontend & Frameworks:** `React` • `Next.js` • `Tailwind CSS`  
  **Design & Tools:** `Figma`
 
 ---
@@ -54,6 +58,4 @@
 
 ---
 
- 🚀 *Open to backend opportunities that challenge me, push my boundaries, and help me evolve.*
----
-</div>
+ 🚀 *Open to opportunities that challenge me, push my boundaries, and help me evolve.*
