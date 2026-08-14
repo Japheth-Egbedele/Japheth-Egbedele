@@ -6,7 +6,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-EDC284?style=for-the-badge&logo=vercel&logoColor=000)](https://japheth-egbedele.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-NETWORK-EDC284?style=for-the-badge&logo=linkedin&logoColor=000)](https://linkedin.com/in/egbedelejapheth)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-NETWORK-EDC284?style=for-the-badge&logo=linkedin&logoColor=000)](https://www.linkedin.com/in/japheth-egbedele)
 
 ---
 
