@@ -12,12 +12,13 @@
 
 ---
 
-### 📂 OPERATIONAL LOG
-| Status | Mission |
+### 📂 Profile Overview
+
+|  | Details |
 | :--- | :--- |
-| 🔭 **CURRENT** | Founder, Freelance Software Developer & Product Engineer @ Highnet (2025—Present) |
-| ⚡ **STACK** | Java, Springboot |
-| 📍 **BASE** | Nigeria (Open to Remote) |
+| **Current Role** | Java Backend Software Engineer |
+| **Core Focus** | Scalable Microservices & Deep Backend Systems |
+| **Status** | Open to full-time & high-impact opportunities |
 
 ---
 
